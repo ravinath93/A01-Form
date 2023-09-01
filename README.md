@@ -1,5 +1,5 @@
 # A01-Form
-A01 is This is simple form design created using html &amp; css.. (Public)
+A01 - This is a simple form design created using html &amp; css.. (Public)
 
 This is inside of the  Readme.md file 
 සිංහල අකුරුත් පාවිච්චි කරන්න පුළුවන් ..
